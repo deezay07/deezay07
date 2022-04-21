@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deezay07
-- 👀 I’m interested in Web Development and Cload Acrhictecture
+- 👀 I’m interested in Web Development and Cloud Acrhictecture
 - 🌱 I’m currently learning NodeJs, Python
 
 
