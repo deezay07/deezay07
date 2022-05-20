@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deezay07
 - 👀 I’m interested in Front-end Development and Cloud Acrhictecture
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning React.Js.
 
 
 <!---
